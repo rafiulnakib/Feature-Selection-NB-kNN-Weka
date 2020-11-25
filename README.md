@@ -1,0 +1,2 @@
+Task description:
+In this assignment you will implement the K-Nearest Neighbour and Naïve Bayes algorithms and evaluate them on a real dataset using the stratified cross validation method. You will also evaluate the performance of other classifiers on the same dataset using Weka. Finally, you will investigate the effect of feature selection, in particular the Correlation-based Feature Selection method (CFS) from Weka.
